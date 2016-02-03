@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\EditorGrid.cs" />
      <Compile Include="Assets\ground_check.cs" />
+     <Compile Include="Assets\platform_mover.cs" />
      <Compile Include="Assets\player_movement.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">

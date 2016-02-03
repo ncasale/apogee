@@ -4,6 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Static Platform
+  - Moving Platform
   - Platform
   layers:
   - Default
