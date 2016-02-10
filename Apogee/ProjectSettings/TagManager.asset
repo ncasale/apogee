@@ -5,8 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Static Platform
-  - Moving Platform
+  - Horizontal Moving Platform
   - Platform
+  - Vertical Moving Platform
+  - Moving Platform
+  - Music Manager
+  - Collection Manager
+  - Fade Manager
   layers:
   - Default
   - TransparentFX
@@ -18,10 +23,10 @@ TagManager:
   - 
   - Platforms
   - Player
-  - 
-  - 
-  - 
-  - 
+  - Objects
+  - Grabbed Object
+  - Collection Manager
+  - Fade Manager
   - 
   - 
   - 

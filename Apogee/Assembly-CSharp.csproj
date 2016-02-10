@@ -46,9 +46,21 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\EditorGrid.cs" />
-     <Compile Include="Assets\ground_check.cs" />
-     <Compile Include="Assets\platform_mover.cs" />
-     <Compile Include="Assets\player_movement.cs" />
+     <Compile Include="Assets\Scripts\collectible_behavior.cs" />
+     <Compile Include="Assets\Scripts\collection_manager.cs" />
+     <Compile Include="Assets\Scripts\death_zone_behavior.cs" />
+     <Compile Include="Assets\Scripts\exit_behavior.cs" />
+     <Compile Include="Assets\Scripts\fading.cs" />
+     <Compile Include="Assets\Scripts\falling_platform_mover.cs" />
+     <Compile Include="Assets\Scripts\ground_check.cs" />
+     <Compile Include="Assets\Scripts\horizontal_platform_mover.cs" />
+     <Compile Include="Assets\Scripts\moveable_object_behavior.cs" />
+     <Compile Include="Assets\Scripts\music_manager_script.cs" />
+     <Compile Include="Assets\Scripts\nova_behavior.cs" />
+     <Compile Include="Assets\Scripts\obstacle_behavior.cs" />
+     <Compile Include="Assets\Scripts\player_movement.cs" />
+     <Compile Include="Assets\Scripts\vertical_platform_mover.cs" />
+     <None Include="Assets\GameMetrics.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

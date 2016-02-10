@@ -1,0 +1,4 @@
+Game Metrics:
+
+Reasonable Horizontal Jump Distance: 2.5 game units
+Reasonable Vertical Jump Height: .4 game units up, 1.2 game units horizontal

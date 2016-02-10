@@ -4,4 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/near_earth_1.unity
+  - enabled: 1
+    path: Assets/Scenes/near_earth_2.unity
+  - enabled: 1
+    path: Assets/Scenes/near_earth_3.unity
+  - enabled: 1
+    path: Assets/Scenes/near_earth_4.unity
